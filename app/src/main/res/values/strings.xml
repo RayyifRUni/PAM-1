@@ -1,12 +1,9 @@
 <resources>
-    <string name="kartu mahasiswa">My Application</string>
-
+    <string name="app_name">Kartu mahasiswa</string>
     <string name="nim_text">NIM: 235150700111032</string>
     <string name="nama_text">Nama: Laode M. Rayyif Rasya Taufan</string>
     <string name="program_studi_text">Program Studi: Teknologi Informasi</string>
     <string name="fakultas_text">Fakultas: Ilmu Komputer</string>
-
-
     <string name="foto_mahasiswa">Foto mahasiswa</string>
     <string name="logo_ub">LOGO UB</string>
 </resources>
